@@ -59,9 +59,9 @@ _이텔릭_
 
 ![]()
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![HEROPY](https://raw.githubusercontent.com/jiisunny/jisunkim-portfolio/master/favicon.png)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![HEROPY](https://raw.githubusercontent.com/jiisunny/jisunkim-portfolio/master/favicon.png)](https://infallible-heisenberg-75d4ab.netlify.app/)
 
 # 인용문(BlockQuote)
 
@@ -127,7 +127,7 @@ fixed | 뷰포트 | X
 
 ---
 
-<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+<img width="70" src="https://raw.githubusercontent.com/jiisunny/jisunkim-portfolio/master/favicon.png" alt="JISUN KIM" />
 
 # 수평선(Horizontal Rule)
 
